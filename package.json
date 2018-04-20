@@ -9,10 +9,21 @@
     "@aragon/apps-voting": "^1.0.0",
     "@aragon/id": "^1.2.2",
     "@aragon/os": "^3.1.3",
+    "js-sha3": "^0.7.0",
     "solc": "^0.4.18"
   },
   "devDependencies": {
     "@aragon/cli": "^2.0.0",
+    "@aragon/test-helpers": "^1.0.0",
+    "coveralls": "^3.0.0",
+    "eth-ens-namehash": "^2.0.8",
+    "eth-gas-reporter": "^0.1.1",
+    "ethereumjs-abi": "^0.6.5",
+    "ethereumjs-testrpc-sc": "^6.1.2",
+    "ganache-cli": "^6.1.0",
+    "glob": "^7.1.2",
+    "mocha-lcov-reporter": "^1.3.0",
+    "solidity-coverage": "^0.4.15",
     "solium": "^1.1.6",
     "truffle-hdwallet-provider": "0.0.3"
   },
@@ -21,7 +32,10 @@
     "compile": "truffle compile && node scripts/extract-abis.js",
     "publish": "aragon-dev-cli publish",
     "lint": "solium -d contracts --fix",
-    "deploy:rpc": "truffle migrate --network rpc --reset"
+    "deploy:rpc": "truffle migrate --network rpc --reset",
+    "ganache-cli": "./run.testrpc.sh",
+    "ganache-cli:dev": "./node_modules/@aragon/test-helpers/ganache-cli.sh",
+    "ganache-cli:coverage": "SOLIDITY_COVERAGE=true npm run ganache-cli:dev"
   },
   "keywords": [],
   "license": "GPL-3.0"
