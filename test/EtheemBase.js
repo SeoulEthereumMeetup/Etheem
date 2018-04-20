@@ -63,13 +63,15 @@ contract("EtheemBase", async ([owner, ...accounts]) => {
       "EBT",
       true);
 
-    etheem.setContracts(
+    await etheem.setContracts(
       token.address,
       eventFactory.address,
       marketFactory.address,
       marketMaker.address,
       oracleFactory.address,
     );
+
+    await token.generateTokens(owner, 1000e18);
   })
 
   it("setup ", async () => {

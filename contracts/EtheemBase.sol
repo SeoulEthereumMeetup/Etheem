@@ -99,30 +99,10 @@ contract EtheemBase is Ownable {
   }
 
   function initVoting(bytes32 _articleHash) internal {
-    /* CentralizedOracle oracle = oracleFactory.createCentralizedOracle(_articleHash); */
-    /* CategoricalEvent eventContract = eventFactory.createCategoricalEvent(token, oracle, 2); // good or bad
+    CentralizedOracle oracle = oracleFactory.createCentralizedOracle(_articleHash);
+    CategoricalEvent eventContract = eventFactory.createCategoricalEvent(token, oracle, 2); // good or bad
     StandardMarket market = marketFactory.createMarket(eventContract, marketMaker, 0);
 
-    markets[_articleHash] = market; */
+    markets[_articleHash] = market;
   }
-
-  function bytes32ToBytes(bytes32 data) internal pure returns (bytes memory result) {
-      uint i = 0;
-      uint j = 0;
-
-      while (i < 32 && uint(data[i]) == 0) {
-          ++i;
-      }
-
-      result = new bytes(32 - i);
-
-      while (i < 32) {
-          result[j] = data[i];
-          ++i;
-          ++j;
-      }
-
-      return result;
-  }
-
 }
