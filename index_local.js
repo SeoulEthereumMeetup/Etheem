@@ -226,8 +226,8 @@ module.exports = {
           ],
           "bytecode": "0x6060604052341561000f57600080fd5b336000808060010260001916815260200190815260200160002060000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055506108c0806100796000396000f300606060405260043610610083576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680630178b8bf1461008857806302571be3146100ef57806306ab59231461015657806314ab9038146101a957806316a25cbd146101e35780631896f70a146102325780635b0fc9c314610278575b600080fd5b341561009357600080fd5b6100ad6004808035600019169060200190919050506102be565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34156100fa57600080fd5b610114600480803560001916906020019091905050610305565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b341561016157600080fd5b6101a76004808035600019169060200190919080356000191690602001909190803573ffffffffffffffffffffffffffffffffffffffff1690602001909190505061034c565b005b34156101b457600080fd5b6101e160048080356000191690602001909190803567ffffffffffffffff169060200190919050506104c6565b005b34156101ee57600080fd5b6102086004808035600019169060200190919050506105d7565b604051808267ffffffffffffffff1667ffffffffffffffff16815260200191505060405180910390f35b341561023d57600080fd5b61027660048080356000191690602001909190803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610612565b005b341561028357600080fd5b6102bc60048080356000191690602001909190803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610753565b005b6000806000836000191660001916815260200190815260200160002060010160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff169050919050565b6000806000836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff169050919050565b6000833373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161415156103c657600080fd5b848460405180836000191660001916815260200182600019166000191681526020019250505060405180910390209150836000191685600019167fce0457fe73731f824cc272376169235128c118b49d344817417c6d108d155e8285604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390a382600080846000191660001916815260200190815260200160002060000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055505050505050565b813373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1614151561053e57600080fd5b82600019167f1d4f9bbfc9cab89d66e1a1562f2233ccbf1308cb4f63de2ead5787adddb8fa6883604051808267ffffffffffffffff1667ffffffffffffffff16815260200191505060405180910390a281600080856000191660001916815260200190815260200160002060010160146101000a81548167ffffffffffffffff021916908367ffffffffffffffff160217905550505050565b6000806000836000191660001916815260200190815260200160002060010160149054906101000a900467ffffffffffffffff169050919050565b813373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1614151561068a57600080fd5b82600019167f335721b01866dc23fbee8b6b2c7b1e14d6f05c28cd35a2c934239f94095602a083604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390a281600080856000191660001916815260200190815260200160002060010160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505050565b813373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161415156107cb57600080fd5b82600019167fd4735d920b0f87494915f556dd9b54c8f309026070caea5c737245152564d26683604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390a281600080856000191660001916815260200190815260200160002060000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055505050505600a165627a7a723058203bd17b1636d2d519bbc49945b15beab42d32f6ab86f197dde383bb1281b68a5c0029",
           "deployedBytecode": "0x606060405260043610610083576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680630178b8bf1461008857806302571be3146100ef57806306ab59231461015657806314ab9038146101a957806316a25cbd146101e35780631896f70a146102325780635b0fc9c314610278575b600080fd5b341561009357600080fd5b6100ad6004808035600019169060200190919050506102be565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34156100fa57600080fd5b610114600480803560001916906020019091905050610305565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b341561016157600080fd5b6101a76004808035600019169060200190919080356000191690602001909190803573ffffffffffffffffffffffffffffffffffffffff1690602001909190505061034c565b005b34156101b457600080fd5b6101e160048080356000191690602001909190803567ffffffffffffffff169060200190919050506104c6565b005b34156101ee57600080fd5b6102086004808035600019169060200190919050506105d7565b604051808267ffffffffffffffff1667ffffffffffffffff16815260200191505060405180910390f35b341561023d57600080fd5b61027660048080356000191690602001909190803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610612565b005b341561028357600080fd5b6102bc60048080356000191690602001909190803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610753565b005b6000806000836000191660001916815260200190815260200160002060010160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff169050919050565b6000806000836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff169050919050565b6000833373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161415156103c657600080fd5b848460405180836000191660001916815260200182600019166000191681526020019250505060405180910390209150836000191685600019167fce0457fe73731f824cc272376169235128c118b49d344817417c6d108d155e8285604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390a382600080846000191660001916815260200190815260200160002060000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055505050505050565b813373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1614151561053e57600080fd5b82600019167f1d4f9bbfc9cab89d66e1a1562f2233ccbf1308cb4f63de2ead5787adddb8fa6883604051808267ffffffffffffffff1667ffffffffffffffff16815260200191505060405180910390a281600080856000191660001916815260200190815260200160002060010160146101000a81548167ffffffffffffffff021916908367ffffffffffffffff160217905550505050565b6000806000836000191660001916815260200190815260200160002060010160149054906101000a900467ffffffffffffffff169050919050565b813373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1614151561068a57600080fd5b82600019167f335721b01866dc23fbee8b6b2c7b1e14d6f05c28cd35a2c934239f94095602a083604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390a281600080856000191660001916815260200190815260200160002060010160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550505050565b813373ffffffffffffffffffffffffffffffffffffffff16600080836000191660001916815260200190815260200160002060000160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff161415156107cb57600080fd5b82600019167fd4735d920b0f87494915f556dd9b54c8f309026070caea5c737245152564d26683604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390a281600080856000191660001916815260200190815260200160002060000160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff1602179055505050505600a165627a7a723058203bd17b1636d2d519bbc49945b15beab42d32f6ab86f197dde383bb1281b68a5c0029",
-          "sourceMap": "93:2534:45:-;;;499:61;;;;;;;;543:10;524:7;:10;532:1;524:10;;;;;;;;;;;;;;;;:16;;;:29;;;;;;;;;;;;;;;;;;93:2534;;;;;;",
-          "deployedSourceMap": "93:2534:45:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;827:105;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;639:99;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1812:217;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2499:126;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1024:94;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2199:157;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1359:139;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;827:105;877:7;903;:13;911:4;903:13;;;;;;;;;;;;;;;;;:22;;;;;;;;;;;;896:29;;827:105;;;:::o;639:99::-;686:7;712;:13;720:4;712:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;705:26;;639:99;;;:::o;1812:217::-;1908:11;1892:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;1932:4;1938:5;1922:22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1908:36;;1969:5;1954:28;;;1963:4;1954:28;;;;1976:5;1954:28;;;;;;;;;;;;;;;;;;;;;;2017:5;1992:7;:16;2000:7;1992:16;;;;;;;;;;;;;;;;;:22;;;:30;;;;;;;;;;;;;;;;;;1812:217;;;;;:::o;2499:126::-;2552:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;2575:4;2568:17;;;;2581:3;2568:17;;;;;;;;;;;;;;;;;;;;;;2615:3;2595:7;:13;2603:4;2595:13;;;;;;;;;;;;;;;;;:17;;;:23;;;;;;;;;;;;;;;;;;2499:126;;;:::o;1024:94::-;1069:6;1094:7;:13;1102:4;1094:13;;;;;;;;;;;;;;;;;:17;;;;;;;;;;;;1087:24;;1024:94;;;:::o;2199:157::-;2263:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;2291:4;2279:27;;;;2297:8;2279:27;;;;;;;;;;;;;;;;;;;;;;2341:8;2316:7;:13;2324:4;2316:13;;;;;;;;;;;;;;;;;:22;;;:33;;;;;;;;;;;;;;;;;;2199:157;;;:::o;1359:139::-;1417:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;1442:4;1433:21;;;;1448:5;1433:21;;;;;;;;;;;;;;;;;;;;;;1486:5;1464:7;:13;1472:4;1464:13;;;;;;;;;;;;;;;;;:19;;;:27;;;;;;;;;;;;;;;;;;1359:139;;;:::o",
+          "sourceMap": "93:2534:49:-;;;499:61;;;;;;;;543:10;524:7;:10;532:1;524:10;;;;;;;;;;;;;;;;:16;;;:29;;;;;;;;;;;;;;;;;;93:2534;;;;;;",
+          "deployedSourceMap": "93:2534:49:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;827:105;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;639:99;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1812:217;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2499:126;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1024:94;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2199:157;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1359:139;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;827:105;877:7;903;:13;911:4;903:13;;;;;;;;;;;;;;;;;:22;;;;;;;;;;;;896:29;;827:105;;;:::o;639:99::-;686:7;712;:13;720:4;712:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;705:26;;639:99;;;:::o;1812:217::-;1908:11;1892:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;1932:4;1938:5;1922:22;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1908:36;;1969:5;1954:28;;;1963:4;1954:28;;;;1976:5;1954:28;;;;;;;;;;;;;;;;;;;;;;2017:5;1992:7;:16;2000:7;1992:16;;;;;;;;;;;;;;;;;:22;;;:30;;;;;;;;;;;;;;;;;;1812:217;;;;;:::o;2499:126::-;2552:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;2575:4;2568:17;;;;2581:3;2568:17;;;;;;;;;;;;;;;;;;;;;;2615:3;2595:7;:13;2603:4;2595:13;;;;;;;;;;;;;;;;;:17;;;:23;;;;;;;;;;;;;;;;;;2499:126;;;:::o;1024:94::-;1069:6;1094:7;:13;1102:4;1094:13;;;;;;;;;;;;;;;;;:17;;;;;;;;;;;;1087:24;;1024:94;;;:::o;2199:157::-;2263:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;2291:4;2279:27;;;;2297:8;2279:27;;;;;;;;;;;;;;;;;;;;;;2341:8;2316:7;:13;2324:4;2316:13;;;;;;;;;;;;;;;;;:22;;;:33;;;;;;;;;;;;;;;;;;2199:157;;;:::o;1359:139::-;1417:4;403:10;380:33;;:7;:13;388:4;380:13;;;;;;;;;;;;;;;;;:19;;;;;;;;;;;;:33;;;;376:44;;;415:5;;;376:44;1442:4;1433:21;;;;1448:5;1433:21;;;;;;;;;;;;;;;;;;;;;;1486:5;1464:7;:13;1472:4;1464:13;;;;;;;;;;;;;;;;;:19;;;:27;;;;;;;;;;;;;;;;;;1359:139;;;:::o",
           "source": "pragma solidity ^0.4.0;\n\n\nimport './AbstractENS.sol';\n\n/**\n * The ENS registry contract.\n */\ncontract ENS is AbstractENS {\n    struct Record {\n        address owner;\n        address resolver;\n        uint64 ttl;\n    }\n\n    mapping(bytes32=>Record) records;\n\n    // Permits modifications only by the owner of the specified node.\n    modifier only_owner(bytes32 node) {\n        if (records[node].owner != msg.sender) throw;\n        _;\n    }\n\n    /**\n     * Constructs a new ENS registrar.\n     */\n    function ENS() {\n        records[0].owner = msg.sender;\n    }\n\n    /**\n     * Returns the address that owns the specified node.\n     */\n    function owner(bytes32 node) constant returns (address) {\n        return records[node].owner;\n    }\n\n    /**\n     * Returns the address of the resolver for the specified node.\n     */\n    function resolver(bytes32 node) constant returns (address) {\n        return records[node].resolver;\n    }\n\n    /**\n     * Returns the TTL of a node, and any records associated with it.\n     */\n    function ttl(bytes32 node) constant returns (uint64) {\n        return records[node].ttl;\n    }\n\n    /**\n     * Transfers ownership of a node to a new address. May only be called by the current\n     * owner of the node.\n     * @param node The node to transfer ownership of.\n     * @param owner The address of the new owner.\n     */\n    function setOwner(bytes32 node, address owner) only_owner(node) {\n        Transfer(node, owner);\n        records[node].owner = owner;\n    }\n\n    /**\n     * Transfers ownership of a subnode keccak256(node, label) to a new address. May only be\n     * called by the owner of the parent node.\n     * @param node The parent node.\n     * @param label The hash of the label specifying the subnode.\n     * @param owner The address of the new owner.\n     */\n    function setSubnodeOwner(bytes32 node, bytes32 label, address owner) only_owner(node) {\n        var subnode = keccak256(node, label);\n        NewOwner(node, label, owner);\n        records[subnode].owner = owner;\n    }\n\n    /**\n     * Sets the resolver address for the specified node.\n     * @param node The node to update.\n     * @param resolver The address of the resolver.\n     */\n    function setResolver(bytes32 node, address resolver) only_owner(node) {\n        NewResolver(node, resolver);\n        records[node].resolver = resolver;\n    }\n\n    /**\n     * Sets the TTL for the specified node.\n     * @param node The node to update.\n     * @param ttl The TTL in seconds.\n     */\n    function setTTL(bytes32 node, uint64 ttl) only_owner(node) {\n        NewTTL(node, ttl);\n        records[node].ttl = ttl;\n    }\n}\n",
           "sourcePath": "@aragon/os/contracts/lib/ens/ENS.sol",
           "ast": {
@@ -235,7 +235,7 @@ module.exports = {
               "absolutePath": "@aragon/os/contracts/lib/ens/ENS.sol",
               "exportedSymbols": {
                 "ENS": [
-                  9862
+                  10079
                 ]
               }
             },
@@ -249,39 +249,39 @@ module.exports = {
                     ".0"
                   ]
                 },
-                "id": 9680,
+                "id": 9897,
                 "name": "PragmaDirective",
-                "src": "0:23:45"
+                "src": "0:23:49"
               },
               {
                 "attributes": {
-                  "SourceUnit": 9679,
+                  "SourceUnit": 9896,
                   "absolutePath": "@aragon/os/contracts/lib/ens/AbstractENS.sol",
                   "file": "./AbstractENS.sol",
-                  "scope": 9863,
+                  "scope": 10080,
                   "symbolAliases": [
                     null
                   ],
                   "unitAlias": ""
                 },
-                "id": 9681,
+                "id": 9898,
                 "name": "ImportDirective",
-                "src": "26:27:45"
+                "src": "26:27:49"
               },
               {
                 "attributes": {
                   "contractDependencies": [
-                    9678
+                    9895
                   ],
                   "contractKind": "contract",
                   "documentation": "The ENS registry contract.",
                   "fullyImplemented": true,
                   "linearizedBaseContracts": [
-                    9862,
-                    9678
+                    10079,
+                    9895
                   ],
                   "name": "ENS",
-                  "scope": 9863
+                  "scope": 10080
                 },
                 "children": [
                   {
@@ -295,23 +295,23 @@ module.exports = {
                         "attributes": {
                           "contractScope": null,
                           "name": "AbstractENS",
-                          "referencedDeclaration": 9678,
+                          "referencedDeclaration": 9895,
                           "type": "contract AbstractENS"
                         },
-                        "id": 9682,
+                        "id": 9899,
                         "name": "UserDefinedTypeName",
-                        "src": "109:11:45"
+                        "src": "109:11:49"
                       }
                     ],
-                    "id": 9683,
+                    "id": 9900,
                     "name": "InheritanceSpecifier",
-                    "src": "109:11:45"
+                    "src": "109:11:49"
                   },
                   {
                     "attributes": {
                       "canonicalName": "ENS.Record",
                       "name": "Record",
-                      "scope": 9862,
+                      "scope": 10079,
                       "visibility": "public"
                     },
                     "children": [
@@ -319,7 +319,7 @@ module.exports = {
                         "attributes": {
                           "constant": false,
                           "name": "owner",
-                          "scope": 9690,
+                          "scope": 9907,
                           "stateVariable": false,
                           "storageLocation": "default",
                           "type": "address",
@@ -332,20 +332,20 @@ module.exports = {
                               "name": "address",
                               "type": "address"
                             },
-                            "id": 9684,
+                            "id": 9901,
                             "name": "ElementaryTypeName",
-                            "src": "151:7:45"
+                            "src": "151:7:49"
                           }
                         ],
-                        "id": 9685,
+                        "id": 9902,
                         "name": "VariableDeclaration",
-                        "src": "151:13:45"
+                        "src": "151:13:49"
                       },
                       {
                         "attributes": {
                           "constant": false,
                           "name": "resolver",
-                          "scope": 9690,
+                          "scope": 9907,
                           "stateVariable": false,
                           "storageLocation": "default",
                           "type": "address",
@@ -358,20 +358,20 @@ module.exports = {
                               "name": "address",
                               "type": "address"
                             },
-                            "id": 9686,
+                            "id": 9903,
                             "name": "ElementaryTypeName",
-                            "src": "174:7:45"
+                            "src": "174:7:49"
                           }
                         ],
-                        "id": 9687,
+                        "id": 9904,
                         "name": "VariableDeclaration",
-                        "src": "174:16:45"
+                        "src": "174:16:49"
                       },
                       {
                         "attributes": {
                           "constant": false,
                           "name": "ttl",
-                          "scope": 9690,
+                          "scope": 9907,
                           "stateVariable": false,
                           "storageLocation": "default",
                           "type": "uint64",
@@ -384,25 +384,25 @@ module.exports = {
                               "name": "uint64",
                               "type": "uint64"
                             },
-                            "id": 9688,
+                            "id": 9905,
                             "name": "ElementaryTypeName",
-                            "src": "200:6:45"
+                            "src": "200:6:49"
                           }
                         ],
-                        "id": 9689,
+                        "id": 9906,
                         "name": "VariableDeclaration",
-                        "src": "200:10:45"
+                        "src": "200:10:49"
                       }
                     ],
-                    "id": 9690,
+                    "id": 9907,
                     "name": "StructDefinition",
-                    "src": "127:90:45"
+                    "src": "127:90:49"
                   },
                   {
                     "attributes": {
                       "constant": false,
                       "name": "records",
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateVariable": true,
                       "storageLocation": "default",
                       "type": "mapping(bytes32 => struct ENS.Record storage ref)",
@@ -420,30 +420,30 @@ module.exports = {
                               "name": "bytes32",
                               "type": "bytes32"
                             },
-                            "id": 9691,
+                            "id": 9908,
                             "name": "ElementaryTypeName",
-                            "src": "231:7:45"
+                            "src": "231:7:49"
                           },
                           {
                             "attributes": {
                               "contractScope": null,
                               "name": "Record",
-                              "referencedDeclaration": 9690,
+                              "referencedDeclaration": 9907,
                               "type": "struct ENS.Record storage pointer"
                             },
-                            "id": 9692,
+                            "id": 9909,
                             "name": "UserDefinedTypeName",
-                            "src": "240:6:45"
+                            "src": "240:6:49"
                           }
                         ],
-                        "id": 9693,
+                        "id": 9910,
                         "name": "Mapping",
-                        "src": "223:24:45"
+                        "src": "223:24:49"
                       }
                     ],
-                    "id": 9694,
+                    "id": 9911,
                     "name": "VariableDeclaration",
-                    "src": "223:32:45"
+                    "src": "223:32:49"
                   },
                   {
                     "attributes": {
@@ -457,7 +457,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9709,
+                              "scope": 9926,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -470,19 +470,19 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9695,
+                                "id": 9912,
                                 "name": "ElementaryTypeName",
-                                "src": "352:7:45"
+                                "src": "352:7:49"
                               }
                             ],
-                            "id": 9696,
+                            "id": 9913,
                             "name": "VariableDeclaration",
-                            "src": "352:12:45"
+                            "src": "352:12:49"
                           }
                         ],
-                        "id": 9697,
+                        "id": 9914,
                         "name": "ParameterList",
-                        "src": "351:14:45"
+                        "src": "351:14:49"
                       },
                       {
                         "children": [
@@ -514,7 +514,7 @@ module.exports = {
                                       "isPure": false,
                                       "lValueRequested": false,
                                       "member_name": "owner",
-                                      "referencedDeclaration": 9685,
+                                      "referencedDeclaration": 9902,
                                       "type": "address"
                                     },
                                     "children": [
@@ -534,13 +534,13 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9694,
+                                              "referencedDeclaration": 9911,
                                               "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                               "value": "records"
                                             },
-                                            "id": 9698,
+                                            "id": 9915,
                                             "name": "Identifier",
-                                            "src": "380:7:45"
+                                            "src": "380:7:49"
                                           },
                                           {
                                             "attributes": {
@@ -548,23 +548,23 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9696,
+                                              "referencedDeclaration": 9913,
                                               "type": "bytes32",
                                               "value": "node"
                                             },
-                                            "id": 9699,
+                                            "id": 9916,
                                             "name": "Identifier",
-                                            "src": "388:4:45"
+                                            "src": "388:4:49"
                                           }
                                         ],
-                                        "id": 9700,
+                                        "id": 9917,
                                         "name": "IndexAccess",
-                                        "src": "380:13:45"
+                                        "src": "380:13:49"
                                       }
                                     ],
-                                    "id": 9701,
+                                    "id": 9918,
                                     "name": "MemberAccess",
-                                    "src": "380:19:45"
+                                    "src": "380:19:49"
                                   },
                                   {
                                     "attributes": {
@@ -584,49 +584,49 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 11823,
+                                          "referencedDeclaration": 12040,
                                           "type": "msg",
                                           "value": "msg"
                                         },
-                                        "id": 9702,
+                                        "id": 9919,
                                         "name": "Identifier",
-                                        "src": "403:3:45"
+                                        "src": "403:3:49"
                                       }
                                     ],
-                                    "id": 9703,
+                                    "id": 9920,
                                     "name": "MemberAccess",
-                                    "src": "403:10:45"
+                                    "src": "403:10:49"
                                   }
                                 ],
-                                "id": 9704,
+                                "id": 9921,
                                 "name": "BinaryOperation",
-                                "src": "380:33:45"
+                                "src": "380:33:49"
                               },
                               {
                                 "children": [],
-                                "id": 9705,
+                                "id": 9922,
                                 "name": "Throw",
-                                "src": "415:5:45"
+                                "src": "415:5:49"
                               }
                             ],
-                            "id": 9706,
+                            "id": 9923,
                             "name": "IfStatement",
-                            "src": "376:44:45"
+                            "src": "376:44:49"
                           },
                           {
-                            "id": 9707,
+                            "id": 9924,
                             "name": "PlaceholderStatement",
-                            "src": "430:1:45"
+                            "src": "430:1:49"
                           }
                         ],
-                        "id": 9708,
+                        "id": 9925,
                         "name": "Block",
-                        "src": "366:72:45"
+                        "src": "366:72:49"
                       }
                     ],
-                    "id": 9709,
+                    "id": 9926,
                     "name": "ModifierDefinition",
-                    "src": "332:106:45"
+                    "src": "332:106:49"
                   },
                   {
                     "attributes": {
@@ -638,7 +638,7 @@ module.exports = {
                       ],
                       "name": "ENS",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "nonpayable",
                       "superFunction": null,
                       "visibility": "public"
@@ -651,9 +651,9 @@ module.exports = {
                           ]
                         },
                         "children": [],
-                        "id": 9710,
+                        "id": 9927,
                         "name": "ParameterList",
-                        "src": "511:2:45"
+                        "src": "511:2:49"
                       },
                       {
                         "attributes": {
@@ -662,9 +662,9 @@ module.exports = {
                           ]
                         },
                         "children": [],
-                        "id": 9711,
+                        "id": 9928,
                         "name": "ParameterList",
-                        "src": "514:0:45"
+                        "src": "514:0:49"
                       },
                       {
                         "children": [
@@ -689,7 +689,7 @@ module.exports = {
                                       "isPure": false,
                                       "lValueRequested": true,
                                       "member_name": "owner",
-                                      "referencedDeclaration": 9685,
+                                      "referencedDeclaration": 9902,
                                       "type": "address"
                                     },
                                     "children": [
@@ -709,13 +709,13 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9694,
+                                              "referencedDeclaration": 9911,
                                               "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                               "value": "records"
                                             },
-                                            "id": 9712,
+                                            "id": 9929,
                                             "name": "Identifier",
-                                            "src": "524:7:45"
+                                            "src": "524:7:49"
                                           },
                                           {
                                             "attributes": {
@@ -730,19 +730,19 @@ module.exports = {
                                               "type": "int_const 0",
                                               "value": "0"
                                             },
-                                            "id": 9713,
+                                            "id": 9930,
                                             "name": "Literal",
-                                            "src": "532:1:45"
+                                            "src": "532:1:49"
                                           }
                                         ],
-                                        "id": 9714,
+                                        "id": 9931,
                                         "name": "IndexAccess",
-                                        "src": "524:10:45"
+                                        "src": "524:10:49"
                                       }
                                     ],
-                                    "id": 9715,
+                                    "id": 9932,
                                     "name": "MemberAccess",
-                                    "src": "524:16:45"
+                                    "src": "524:16:49"
                                   },
                                   {
                                     "attributes": {
@@ -762,38 +762,38 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 11823,
+                                          "referencedDeclaration": 12040,
                                           "type": "msg",
                                           "value": "msg"
                                         },
-                                        "id": 9716,
+                                        "id": 9933,
                                         "name": "Identifier",
-                                        "src": "543:3:45"
+                                        "src": "543:3:49"
                                       }
                                     ],
-                                    "id": 9717,
+                                    "id": 9934,
                                     "name": "MemberAccess",
-                                    "src": "543:10:45"
+                                    "src": "543:10:49"
                                   }
                                 ],
-                                "id": 9718,
+                                "id": 9935,
                                 "name": "Assignment",
-                                "src": "524:29:45"
+                                "src": "524:29:49"
                               }
                             ],
-                            "id": 9719,
+                            "id": 9936,
                             "name": "ExpressionStatement",
-                            "src": "524:29:45"
+                            "src": "524:29:49"
                           }
                         ],
-                        "id": 9720,
+                        "id": 9937,
                         "name": "Block",
-                        "src": "514:46:45"
+                        "src": "514:46:49"
                       }
                     ],
-                    "id": 9721,
+                    "id": 9938,
                     "name": "FunctionDefinition",
-                    "src": "499:61:45"
+                    "src": "499:61:49"
                   },
                   {
                     "attributes": {
@@ -805,9 +805,9 @@ module.exports = {
                       ],
                       "name": "owner",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "view",
-                      "superFunction": 9607,
+                      "superFunction": 9824,
                       "visibility": "public"
                     },
                     "children": [
@@ -817,7 +817,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9734,
+                              "scope": 9951,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -830,19 +830,19 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9722,
+                                "id": 9939,
                                 "name": "ElementaryTypeName",
-                                "src": "654:7:45"
+                                "src": "654:7:49"
                               }
                             ],
-                            "id": 9723,
+                            "id": 9940,
                             "name": "VariableDeclaration",
-                            "src": "654:12:45"
+                            "src": "654:12:49"
                           }
                         ],
-                        "id": 9724,
+                        "id": 9941,
                         "name": "ParameterList",
-                        "src": "653:14:45"
+                        "src": "653:14:49"
                       },
                       {
                         "children": [
@@ -850,7 +850,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "",
-                              "scope": 9734,
+                              "scope": 9951,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "address",
@@ -863,25 +863,25 @@ module.exports = {
                                   "name": "address",
                                   "type": "address"
                                 },
-                                "id": 9725,
+                                "id": 9942,
                                 "name": "ElementaryTypeName",
-                                "src": "686:7:45"
+                                "src": "686:7:49"
                               }
                             ],
-                            "id": 9726,
+                            "id": 9943,
                             "name": "VariableDeclaration",
-                            "src": "686:7:45"
+                            "src": "686:7:49"
                           }
                         ],
-                        "id": 9727,
+                        "id": 9944,
                         "name": "ParameterList",
-                        "src": "685:9:45"
+                        "src": "685:9:49"
                       },
                       {
                         "children": [
                           {
                             "attributes": {
-                              "functionReturnParameters": 9727
+                              "functionReturnParameters": 9944
                             },
                             "children": [
                               {
@@ -892,7 +892,7 @@ module.exports = {
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "owner",
-                                  "referencedDeclaration": 9685,
+                                  "referencedDeclaration": 9902,
                                   "type": "address"
                                 },
                                 "children": [
@@ -912,13 +912,13 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 9694,
+                                          "referencedDeclaration": 9911,
                                           "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                           "value": "records"
                                         },
-                                        "id": 9728,
+                                        "id": 9945,
                                         "name": "Identifier",
-                                        "src": "712:7:45"
+                                        "src": "712:7:49"
                                       },
                                       {
                                         "attributes": {
@@ -926,38 +926,38 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 9723,
+                                          "referencedDeclaration": 9940,
                                           "type": "bytes32",
                                           "value": "node"
                                         },
-                                        "id": 9729,
+                                        "id": 9946,
                                         "name": "Identifier",
-                                        "src": "720:4:45"
+                                        "src": "720:4:49"
                                       }
                                     ],
-                                    "id": 9730,
+                                    "id": 9947,
                                     "name": "IndexAccess",
-                                    "src": "712:13:45"
+                                    "src": "712:13:49"
                                   }
                                 ],
-                                "id": 9731,
+                                "id": 9948,
                                 "name": "MemberAccess",
-                                "src": "712:19:45"
+                                "src": "712:19:49"
                               }
                             ],
-                            "id": 9732,
+                            "id": 9949,
                             "name": "Return",
-                            "src": "705:26:45"
+                            "src": "705:26:49"
                           }
                         ],
-                        "id": 9733,
+                        "id": 9950,
                         "name": "Block",
-                        "src": "695:43:45"
+                        "src": "695:43:49"
                       }
                     ],
-                    "id": 9734,
+                    "id": 9951,
                     "name": "FunctionDefinition",
-                    "src": "639:99:45"
+                    "src": "639:99:49"
                   },
                   {
                     "attributes": {
@@ -969,9 +969,9 @@ module.exports = {
                       ],
                       "name": "resolver",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "view",
-                      "superFunction": 9614,
+                      "superFunction": 9831,
                       "visibility": "public"
                     },
                     "children": [
@@ -981,7 +981,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9747,
+                              "scope": 9964,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -994,19 +994,19 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9735,
+                                "id": 9952,
                                 "name": "ElementaryTypeName",
-                                "src": "845:7:45"
+                                "src": "845:7:49"
                               }
                             ],
-                            "id": 9736,
+                            "id": 9953,
                             "name": "VariableDeclaration",
-                            "src": "845:12:45"
+                            "src": "845:12:49"
                           }
                         ],
-                        "id": 9737,
+                        "id": 9954,
                         "name": "ParameterList",
-                        "src": "844:14:45"
+                        "src": "844:14:49"
                       },
                       {
                         "children": [
@@ -1014,7 +1014,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "",
-                              "scope": 9747,
+                              "scope": 9964,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "address",
@@ -1027,25 +1027,25 @@ module.exports = {
                                   "name": "address",
                                   "type": "address"
                                 },
-                                "id": 9738,
+                                "id": 9955,
                                 "name": "ElementaryTypeName",
-                                "src": "877:7:45"
+                                "src": "877:7:49"
                               }
                             ],
-                            "id": 9739,
+                            "id": 9956,
                             "name": "VariableDeclaration",
-                            "src": "877:7:45"
+                            "src": "877:7:49"
                           }
                         ],
-                        "id": 9740,
+                        "id": 9957,
                         "name": "ParameterList",
-                        "src": "876:9:45"
+                        "src": "876:9:49"
                       },
                       {
                         "children": [
                           {
                             "attributes": {
-                              "functionReturnParameters": 9740
+                              "functionReturnParameters": 9957
                             },
                             "children": [
                               {
@@ -1056,7 +1056,7 @@ module.exports = {
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "resolver",
-                                  "referencedDeclaration": 9687,
+                                  "referencedDeclaration": 9904,
                                   "type": "address"
                                 },
                                 "children": [
@@ -1076,13 +1076,13 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 9694,
+                                          "referencedDeclaration": 9911,
                                           "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                           "value": "records"
                                         },
-                                        "id": 9741,
+                                        "id": 9958,
                                         "name": "Identifier",
-                                        "src": "903:7:45"
+                                        "src": "903:7:49"
                                       },
                                       {
                                         "attributes": {
@@ -1090,38 +1090,38 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 9736,
+                                          "referencedDeclaration": 9953,
                                           "type": "bytes32",
                                           "value": "node"
                                         },
-                                        "id": 9742,
+                                        "id": 9959,
                                         "name": "Identifier",
-                                        "src": "911:4:45"
+                                        "src": "911:4:49"
                                       }
                                     ],
-                                    "id": 9743,
+                                    "id": 9960,
                                     "name": "IndexAccess",
-                                    "src": "903:13:45"
+                                    "src": "903:13:49"
                                   }
                                 ],
-                                "id": 9744,
+                                "id": 9961,
                                 "name": "MemberAccess",
-                                "src": "903:22:45"
+                                "src": "903:22:49"
                               }
                             ],
-                            "id": 9745,
+                            "id": 9962,
                             "name": "Return",
-                            "src": "896:29:45"
+                            "src": "896:29:49"
                           }
                         ],
-                        "id": 9746,
+                        "id": 9963,
                         "name": "Block",
-                        "src": "886:46:45"
+                        "src": "886:46:49"
                       }
                     ],
-                    "id": 9747,
+                    "id": 9964,
                     "name": "FunctionDefinition",
-                    "src": "827:105:45"
+                    "src": "827:105:49"
                   },
                   {
                     "attributes": {
@@ -1133,9 +1133,9 @@ module.exports = {
                       ],
                       "name": "ttl",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "view",
-                      "superFunction": 9621,
+                      "superFunction": 9838,
                       "visibility": "public"
                     },
                     "children": [
@@ -1145,7 +1145,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9760,
+                              "scope": 9977,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -1158,19 +1158,19 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9748,
+                                "id": 9965,
                                 "name": "ElementaryTypeName",
-                                "src": "1037:7:45"
+                                "src": "1037:7:49"
                               }
                             ],
-                            "id": 9749,
+                            "id": 9966,
                             "name": "VariableDeclaration",
-                            "src": "1037:12:45"
+                            "src": "1037:12:49"
                           }
                         ],
-                        "id": 9750,
+                        "id": 9967,
                         "name": "ParameterList",
-                        "src": "1036:14:45"
+                        "src": "1036:14:49"
                       },
                       {
                         "children": [
@@ -1178,7 +1178,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "",
-                              "scope": 9760,
+                              "scope": 9977,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "uint64",
@@ -1191,25 +1191,25 @@ module.exports = {
                                   "name": "uint64",
                                   "type": "uint64"
                                 },
-                                "id": 9751,
+                                "id": 9968,
                                 "name": "ElementaryTypeName",
-                                "src": "1069:6:45"
+                                "src": "1069:6:49"
                               }
                             ],
-                            "id": 9752,
+                            "id": 9969,
                             "name": "VariableDeclaration",
-                            "src": "1069:6:45"
+                            "src": "1069:6:49"
                           }
                         ],
-                        "id": 9753,
+                        "id": 9970,
                         "name": "ParameterList",
-                        "src": "1068:8:45"
+                        "src": "1068:8:49"
                       },
                       {
                         "children": [
                           {
                             "attributes": {
-                              "functionReturnParameters": 9753
+                              "functionReturnParameters": 9970
                             },
                             "children": [
                               {
@@ -1220,7 +1220,7 @@ module.exports = {
                                   "isPure": false,
                                   "lValueRequested": false,
                                   "member_name": "ttl",
-                                  "referencedDeclaration": 9689,
+                                  "referencedDeclaration": 9906,
                                   "type": "uint64"
                                 },
                                 "children": [
@@ -1240,13 +1240,13 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 9694,
+                                          "referencedDeclaration": 9911,
                                           "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                           "value": "records"
                                         },
-                                        "id": 9754,
+                                        "id": 9971,
                                         "name": "Identifier",
-                                        "src": "1094:7:45"
+                                        "src": "1094:7:49"
                                       },
                                       {
                                         "attributes": {
@@ -1254,38 +1254,38 @@ module.exports = {
                                           "overloadedDeclarations": [
                                             null
                                           ],
-                                          "referencedDeclaration": 9749,
+                                          "referencedDeclaration": 9966,
                                           "type": "bytes32",
                                           "value": "node"
                                         },
-                                        "id": 9755,
+                                        "id": 9972,
                                         "name": "Identifier",
-                                        "src": "1102:4:45"
+                                        "src": "1102:4:49"
                                       }
                                     ],
-                                    "id": 9756,
+                                    "id": 9973,
                                     "name": "IndexAccess",
-                                    "src": "1094:13:45"
+                                    "src": "1094:13:49"
                                   }
                                 ],
-                                "id": 9757,
+                                "id": 9974,
                                 "name": "MemberAccess",
-                                "src": "1094:17:45"
+                                "src": "1094:17:49"
                               }
                             ],
-                            "id": 9758,
+                            "id": 9975,
                             "name": "Return",
-                            "src": "1087:24:45"
+                            "src": "1087:24:49"
                           }
                         ],
-                        "id": 9759,
+                        "id": 9976,
                         "name": "Block",
-                        "src": "1077:41:45"
+                        "src": "1077:41:49"
                       }
                     ],
-                    "id": 9760,
+                    "id": 9977,
                     "name": "FunctionDefinition",
-                    "src": "1024:94:45"
+                    "src": "1024:94:49"
                   },
                   {
                     "attributes": {
@@ -1294,9 +1294,9 @@ module.exports = {
                       "isConstructor": false,
                       "name": "setOwner",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "nonpayable",
-                      "superFunction": 9628,
+                      "superFunction": 9845,
                       "visibility": "public"
                     },
                     "children": [
@@ -1306,7 +1306,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9783,
+                              "scope": 10000,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -1319,20 +1319,20 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9761,
+                                "id": 9978,
                                 "name": "ElementaryTypeName",
-                                "src": "1377:7:45"
+                                "src": "1377:7:49"
                               }
                             ],
-                            "id": 9762,
+                            "id": 9979,
                             "name": "VariableDeclaration",
-                            "src": "1377:12:45"
+                            "src": "1377:12:49"
                           },
                           {
                             "attributes": {
                               "constant": false,
                               "name": "owner",
-                              "scope": 9783,
+                              "scope": 10000,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "address",
@@ -1345,19 +1345,19 @@ module.exports = {
                                   "name": "address",
                                   "type": "address"
                                 },
-                                "id": 9763,
+                                "id": 9980,
                                 "name": "ElementaryTypeName",
-                                "src": "1391:7:45"
+                                "src": "1391:7:49"
                               }
                             ],
-                            "id": 9764,
+                            "id": 9981,
                             "name": "VariableDeclaration",
-                            "src": "1391:13:45"
+                            "src": "1391:13:49"
                           }
                         ],
-                        "id": 9765,
+                        "id": 9982,
                         "name": "ParameterList",
-                        "src": "1376:29:45"
+                        "src": "1376:29:49"
                       },
                       {
                         "attributes": {
@@ -1366,9 +1366,9 @@ module.exports = {
                           ]
                         },
                         "children": [],
-                        "id": 9769,
+                        "id": 9986,
                         "name": "ParameterList",
-                        "src": "1423:0:45"
+                        "src": "1423:0:49"
                       },
                       {
                         "children": [
@@ -1378,13 +1378,13 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9709,
+                              "referencedDeclaration": 9926,
                               "type": "modifier (bytes32)",
                               "value": "only_owner"
                             },
-                            "id": 9766,
+                            "id": 9983,
                             "name": "Identifier",
-                            "src": "1406:10:45"
+                            "src": "1406:10:49"
                           },
                           {
                             "attributes": {
@@ -1392,18 +1392,18 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9762,
+                              "referencedDeclaration": 9979,
                               "type": "bytes32",
                               "value": "node"
                             },
-                            "id": 9767,
+                            "id": 9984,
                             "name": "Identifier",
-                            "src": "1417:4:45"
+                            "src": "1417:4:49"
                           }
                         ],
-                        "id": 9768,
+                        "id": 9985,
                         "name": "ModifierInvocation",
-                        "src": "1406:16:45"
+                        "src": "1406:16:49"
                       },
                       {
                         "children": [
@@ -1439,13 +1439,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9665,
+                                      "referencedDeclaration": 9882,
                                       "type": "function (bytes32,address)",
                                       "value": "Transfer"
                                     },
-                                    "id": 9770,
+                                    "id": 9987,
                                     "name": "Identifier",
-                                    "src": "1433:8:45"
+                                    "src": "1433:8:49"
                                   },
                                   {
                                     "attributes": {
@@ -1453,13 +1453,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9762,
+                                      "referencedDeclaration": 9979,
                                       "type": "bytes32",
                                       "value": "node"
                                     },
-                                    "id": 9771,
+                                    "id": 9988,
                                     "name": "Identifier",
-                                    "src": "1442:4:45"
+                                    "src": "1442:4:49"
                                   },
                                   {
                                     "attributes": {
@@ -1467,23 +1467,23 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9764,
+                                      "referencedDeclaration": 9981,
                                       "type": "address",
                                       "value": "owner"
                                     },
-                                    "id": 9772,
+                                    "id": 9989,
                                     "name": "Identifier",
-                                    "src": "1448:5:45"
+                                    "src": "1448:5:49"
                                   }
                                 ],
-                                "id": 9773,
+                                "id": 9990,
                                 "name": "FunctionCall",
-                                "src": "1433:21:45"
+                                "src": "1433:21:49"
                               }
                             ],
-                            "id": 9774,
+                            "id": 9991,
                             "name": "ExpressionStatement",
-                            "src": "1433:21:45"
+                            "src": "1433:21:49"
                           },
                           {
                             "children": [
@@ -1506,7 +1506,7 @@ module.exports = {
                                       "isPure": false,
                                       "lValueRequested": true,
                                       "member_name": "owner",
-                                      "referencedDeclaration": 9685,
+                                      "referencedDeclaration": 9902,
                                       "type": "address"
                                     },
                                     "children": [
@@ -1526,13 +1526,13 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9694,
+                                              "referencedDeclaration": 9911,
                                               "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                               "value": "records"
                                             },
-                                            "id": 9775,
+                                            "id": 9992,
                                             "name": "Identifier",
-                                            "src": "1464:7:45"
+                                            "src": "1464:7:49"
                                           },
                                           {
                                             "attributes": {
@@ -1540,23 +1540,23 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9762,
+                                              "referencedDeclaration": 9979,
                                               "type": "bytes32",
                                               "value": "node"
                                             },
-                                            "id": 9776,
+                                            "id": 9993,
                                             "name": "Identifier",
-                                            "src": "1472:4:45"
+                                            "src": "1472:4:49"
                                           }
                                         ],
-                                        "id": 9777,
+                                        "id": 9994,
                                         "name": "IndexAccess",
-                                        "src": "1464:13:45"
+                                        "src": "1464:13:49"
                                       }
                                     ],
-                                    "id": 9778,
+                                    "id": 9995,
                                     "name": "MemberAccess",
-                                    "src": "1464:19:45"
+                                    "src": "1464:19:49"
                                   },
                                   {
                                     "attributes": {
@@ -1564,33 +1564,33 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9764,
+                                      "referencedDeclaration": 9981,
                                       "type": "address",
                                       "value": "owner"
                                     },
-                                    "id": 9779,
+                                    "id": 9996,
                                     "name": "Identifier",
-                                    "src": "1486:5:45"
+                                    "src": "1486:5:49"
                                   }
                                 ],
-                                "id": 9780,
+                                "id": 9997,
                                 "name": "Assignment",
-                                "src": "1464:27:45"
+                                "src": "1464:27:49"
                               }
                             ],
-                            "id": 9781,
+                            "id": 9998,
                             "name": "ExpressionStatement",
-                            "src": "1464:27:45"
+                            "src": "1464:27:49"
                           }
                         ],
-                        "id": 9782,
+                        "id": 9999,
                         "name": "Block",
-                        "src": "1423:75:45"
+                        "src": "1423:75:49"
                       }
                     ],
-                    "id": 9783,
+                    "id": 10000,
                     "name": "FunctionDefinition",
-                    "src": "1359:139:45"
+                    "src": "1359:139:49"
                   },
                   {
                     "attributes": {
@@ -1599,9 +1599,9 @@ module.exports = {
                       "isConstructor": false,
                       "name": "setSubnodeOwner",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "nonpayable",
-                      "superFunction": 9637,
+                      "superFunction": 9854,
                       "visibility": "public"
                     },
                     "children": [
@@ -1611,7 +1611,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9815,
+                              "scope": 10032,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -1624,20 +1624,20 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9784,
+                                "id": 10001,
                                 "name": "ElementaryTypeName",
-                                "src": "1837:7:45"
+                                "src": "1837:7:49"
                               }
                             ],
-                            "id": 9785,
+                            "id": 10002,
                             "name": "VariableDeclaration",
-                            "src": "1837:12:45"
+                            "src": "1837:12:49"
                           },
                           {
                             "attributes": {
                               "constant": false,
                               "name": "label",
-                              "scope": 9815,
+                              "scope": 10032,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -1650,20 +1650,20 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9786,
+                                "id": 10003,
                                 "name": "ElementaryTypeName",
-                                "src": "1851:7:45"
+                                "src": "1851:7:49"
                               }
                             ],
-                            "id": 9787,
+                            "id": 10004,
                             "name": "VariableDeclaration",
-                            "src": "1851:13:45"
+                            "src": "1851:13:49"
                           },
                           {
                             "attributes": {
                               "constant": false,
                               "name": "owner",
-                              "scope": 9815,
+                              "scope": 10032,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "address",
@@ -1676,19 +1676,19 @@ module.exports = {
                                   "name": "address",
                                   "type": "address"
                                 },
-                                "id": 9788,
+                                "id": 10005,
                                 "name": "ElementaryTypeName",
-                                "src": "1866:7:45"
+                                "src": "1866:7:49"
                               }
                             ],
-                            "id": 9789,
+                            "id": 10006,
                             "name": "VariableDeclaration",
-                            "src": "1866:13:45"
+                            "src": "1866:13:49"
                           }
                         ],
-                        "id": 9790,
+                        "id": 10007,
                         "name": "ParameterList",
-                        "src": "1836:44:45"
+                        "src": "1836:44:49"
                       },
                       {
                         "attributes": {
@@ -1697,9 +1697,9 @@ module.exports = {
                           ]
                         },
                         "children": [],
-                        "id": 9794,
+                        "id": 10011,
                         "name": "ParameterList",
-                        "src": "1898:0:45"
+                        "src": "1898:0:49"
                       },
                       {
                         "children": [
@@ -1709,13 +1709,13 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9709,
+                              "referencedDeclaration": 9926,
                               "type": "modifier (bytes32)",
                               "value": "only_owner"
                             },
-                            "id": 9791,
+                            "id": 10008,
                             "name": "Identifier",
-                            "src": "1881:10:45"
+                            "src": "1881:10:49"
                           },
                           {
                             "attributes": {
@@ -1723,25 +1723,25 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9785,
+                              "referencedDeclaration": 10002,
                               "type": "bytes32",
                               "value": "node"
                             },
-                            "id": 9792,
+                            "id": 10009,
                             "name": "Identifier",
-                            "src": "1892:4:45"
+                            "src": "1892:4:49"
                           }
                         ],
-                        "id": 9793,
+                        "id": 10010,
                         "name": "ModifierInvocation",
-                        "src": "1881:16:45"
+                        "src": "1881:16:49"
                       },
                       {
                         "children": [
                           {
                             "attributes": {
                               "assignments": [
-                                9795
+                                10012
                               ]
                             },
                             "children": [
@@ -1749,7 +1749,7 @@ module.exports = {
                                 "attributes": {
                                   "constant": false,
                                   "name": "subnode",
-                                  "scope": 9815,
+                                  "scope": 10032,
                                   "stateVariable": false,
                                   "storageLocation": "default",
                                   "type": "bytes32",
@@ -1758,9 +1758,9 @@ module.exports = {
                                   "visibility": "internal"
                                 },
                                 "children": [],
-                                "id": 9795,
+                                "id": 10012,
                                 "name": "VariableDeclaration",
-                                "src": "1908:11:45"
+                                "src": "1908:11:49"
                               },
                               {
                                 "attributes": {
@@ -1792,13 +1792,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 11817,
+                                      "referencedDeclaration": 12034,
                                       "type": "function () pure returns (bytes32)",
                                       "value": "keccak256"
                                     },
-                                    "id": 9796,
+                                    "id": 10013,
                                     "name": "Identifier",
-                                    "src": "1922:9:45"
+                                    "src": "1922:9:49"
                                   },
                                   {
                                     "attributes": {
@@ -1806,13 +1806,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9785,
+                                      "referencedDeclaration": 10002,
                                       "type": "bytes32",
                                       "value": "node"
                                     },
-                                    "id": 9797,
+                                    "id": 10014,
                                     "name": "Identifier",
-                                    "src": "1932:4:45"
+                                    "src": "1932:4:49"
                                   },
                                   {
                                     "attributes": {
@@ -1820,23 +1820,23 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9787,
+                                      "referencedDeclaration": 10004,
                                       "type": "bytes32",
                                       "value": "label"
                                     },
-                                    "id": 9798,
+                                    "id": 10015,
                                     "name": "Identifier",
-                                    "src": "1938:5:45"
+                                    "src": "1938:5:49"
                                   }
                                 ],
-                                "id": 9799,
+                                "id": 10016,
                                 "name": "FunctionCall",
-                                "src": "1922:22:45"
+                                "src": "1922:22:49"
                               }
                             ],
-                            "id": 9800,
+                            "id": 10017,
                             "name": "VariableDeclarationStatement",
-                            "src": "1908:36:45"
+                            "src": "1908:36:49"
                           },
                           {
                             "children": [
@@ -1874,13 +1874,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9659,
+                                      "referencedDeclaration": 9876,
                                       "type": "function (bytes32,bytes32,address)",
                                       "value": "NewOwner"
                                     },
-                                    "id": 9801,
+                                    "id": 10018,
                                     "name": "Identifier",
-                                    "src": "1954:8:45"
+                                    "src": "1954:8:49"
                                   },
                                   {
                                     "attributes": {
@@ -1888,13 +1888,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9785,
+                                      "referencedDeclaration": 10002,
                                       "type": "bytes32",
                                       "value": "node"
                                     },
-                                    "id": 9802,
+                                    "id": 10019,
                                     "name": "Identifier",
-                                    "src": "1963:4:45"
+                                    "src": "1963:4:49"
                                   },
                                   {
                                     "attributes": {
@@ -1902,13 +1902,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9787,
+                                      "referencedDeclaration": 10004,
                                       "type": "bytes32",
                                       "value": "label"
                                     },
-                                    "id": 9803,
+                                    "id": 10020,
                                     "name": "Identifier",
-                                    "src": "1969:5:45"
+                                    "src": "1969:5:49"
                                   },
                                   {
                                     "attributes": {
@@ -1916,23 +1916,23 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9789,
+                                      "referencedDeclaration": 10006,
                                       "type": "address",
                                       "value": "owner"
                                     },
-                                    "id": 9804,
+                                    "id": 10021,
                                     "name": "Identifier",
-                                    "src": "1976:5:45"
+                                    "src": "1976:5:49"
                                   }
                                 ],
-                                "id": 9805,
+                                "id": 10022,
                                 "name": "FunctionCall",
-                                "src": "1954:28:45"
+                                "src": "1954:28:49"
                               }
                             ],
-                            "id": 9806,
+                            "id": 10023,
                             "name": "ExpressionStatement",
-                            "src": "1954:28:45"
+                            "src": "1954:28:49"
                           },
                           {
                             "children": [
@@ -1955,7 +1955,7 @@ module.exports = {
                                       "isPure": false,
                                       "lValueRequested": true,
                                       "member_name": "owner",
-                                      "referencedDeclaration": 9685,
+                                      "referencedDeclaration": 9902,
                                       "type": "address"
                                     },
                                     "children": [
@@ -1975,13 +1975,13 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9694,
+                                              "referencedDeclaration": 9911,
                                               "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                               "value": "records"
                                             },
-                                            "id": 9807,
+                                            "id": 10024,
                                             "name": "Identifier",
-                                            "src": "1992:7:45"
+                                            "src": "1992:7:49"
                                           },
                                           {
                                             "attributes": {
@@ -1989,23 +1989,23 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9795,
+                                              "referencedDeclaration": 10012,
                                               "type": "bytes32",
                                               "value": "subnode"
                                             },
-                                            "id": 9808,
+                                            "id": 10025,
                                             "name": "Identifier",
-                                            "src": "2000:7:45"
+                                            "src": "2000:7:49"
                                           }
                                         ],
-                                        "id": 9809,
+                                        "id": 10026,
                                         "name": "IndexAccess",
-                                        "src": "1992:16:45"
+                                        "src": "1992:16:49"
                                       }
                                     ],
-                                    "id": 9810,
+                                    "id": 10027,
                                     "name": "MemberAccess",
-                                    "src": "1992:22:45"
+                                    "src": "1992:22:49"
                                   },
                                   {
                                     "attributes": {
@@ -2013,33 +2013,33 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9789,
+                                      "referencedDeclaration": 10006,
                                       "type": "address",
                                       "value": "owner"
                                     },
-                                    "id": 9811,
+                                    "id": 10028,
                                     "name": "Identifier",
-                                    "src": "2017:5:45"
+                                    "src": "2017:5:49"
                                   }
                                 ],
-                                "id": 9812,
+                                "id": 10029,
                                 "name": "Assignment",
-                                "src": "1992:30:45"
+                                "src": "1992:30:49"
                               }
                             ],
-                            "id": 9813,
+                            "id": 10030,
                             "name": "ExpressionStatement",
-                            "src": "1992:30:45"
+                            "src": "1992:30:49"
                           }
                         ],
-                        "id": 9814,
+                        "id": 10031,
                         "name": "Block",
-                        "src": "1898:131:45"
+                        "src": "1898:131:49"
                       }
                     ],
-                    "id": 9815,
+                    "id": 10032,
                     "name": "FunctionDefinition",
-                    "src": "1812:217:45"
+                    "src": "1812:217:49"
                   },
                   {
                     "attributes": {
@@ -2048,9 +2048,9 @@ module.exports = {
                       "isConstructor": false,
                       "name": "setResolver",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "nonpayable",
-                      "superFunction": 9644,
+                      "superFunction": 9861,
                       "visibility": "public"
                     },
                     "children": [
@@ -2060,7 +2060,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9838,
+                              "scope": 10055,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -2073,20 +2073,20 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9816,
+                                "id": 10033,
                                 "name": "ElementaryTypeName",
-                                "src": "2220:7:45"
+                                "src": "2220:7:49"
                               }
                             ],
-                            "id": 9817,
+                            "id": 10034,
                             "name": "VariableDeclaration",
-                            "src": "2220:12:45"
+                            "src": "2220:12:49"
                           },
                           {
                             "attributes": {
                               "constant": false,
                               "name": "resolver",
-                              "scope": 9838,
+                              "scope": 10055,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "address",
@@ -2099,19 +2099,19 @@ module.exports = {
                                   "name": "address",
                                   "type": "address"
                                 },
-                                "id": 9818,
+                                "id": 10035,
                                 "name": "ElementaryTypeName",
-                                "src": "2234:7:45"
+                                "src": "2234:7:49"
                               }
                             ],
-                            "id": 9819,
+                            "id": 10036,
                             "name": "VariableDeclaration",
-                            "src": "2234:16:45"
+                            "src": "2234:16:49"
                           }
                         ],
-                        "id": 9820,
+                        "id": 10037,
                         "name": "ParameterList",
-                        "src": "2219:32:45"
+                        "src": "2219:32:49"
                       },
                       {
                         "attributes": {
@@ -2120,9 +2120,9 @@ module.exports = {
                           ]
                         },
                         "children": [],
-                        "id": 9824,
+                        "id": 10041,
                         "name": "ParameterList",
-                        "src": "2269:0:45"
+                        "src": "2269:0:49"
                       },
                       {
                         "children": [
@@ -2132,13 +2132,13 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9709,
+                              "referencedDeclaration": 9926,
                               "type": "modifier (bytes32)",
                               "value": "only_owner"
                             },
-                            "id": 9821,
+                            "id": 10038,
                             "name": "Identifier",
-                            "src": "2252:10:45"
+                            "src": "2252:10:49"
                           },
                           {
                             "attributes": {
@@ -2146,18 +2146,18 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9817,
+                              "referencedDeclaration": 10034,
                               "type": "bytes32",
                               "value": "node"
                             },
-                            "id": 9822,
+                            "id": 10039,
                             "name": "Identifier",
-                            "src": "2263:4:45"
+                            "src": "2263:4:49"
                           }
                         ],
-                        "id": 9823,
+                        "id": 10040,
                         "name": "ModifierInvocation",
-                        "src": "2252:16:45"
+                        "src": "2252:16:49"
                       },
                       {
                         "children": [
@@ -2193,13 +2193,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9671,
+                                      "referencedDeclaration": 9888,
                                       "type": "function (bytes32,address)",
                                       "value": "NewResolver"
                                     },
-                                    "id": 9825,
+                                    "id": 10042,
                                     "name": "Identifier",
-                                    "src": "2279:11:45"
+                                    "src": "2279:11:49"
                                   },
                                   {
                                     "attributes": {
@@ -2207,13 +2207,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9817,
+                                      "referencedDeclaration": 10034,
                                       "type": "bytes32",
                                       "value": "node"
                                     },
-                                    "id": 9826,
+                                    "id": 10043,
                                     "name": "Identifier",
-                                    "src": "2291:4:45"
+                                    "src": "2291:4:49"
                                   },
                                   {
                                     "attributes": {
@@ -2221,23 +2221,23 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9819,
+                                      "referencedDeclaration": 10036,
                                       "type": "address",
                                       "value": "resolver"
                                     },
-                                    "id": 9827,
+                                    "id": 10044,
                                     "name": "Identifier",
-                                    "src": "2297:8:45"
+                                    "src": "2297:8:49"
                                   }
                                 ],
-                                "id": 9828,
+                                "id": 10045,
                                 "name": "FunctionCall",
-                                "src": "2279:27:45"
+                                "src": "2279:27:49"
                               }
                             ],
-                            "id": 9829,
+                            "id": 10046,
                             "name": "ExpressionStatement",
-                            "src": "2279:27:45"
+                            "src": "2279:27:49"
                           },
                           {
                             "children": [
@@ -2260,7 +2260,7 @@ module.exports = {
                                       "isPure": false,
                                       "lValueRequested": true,
                                       "member_name": "resolver",
-                                      "referencedDeclaration": 9687,
+                                      "referencedDeclaration": 9904,
                                       "type": "address"
                                     },
                                     "children": [
@@ -2280,13 +2280,13 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9694,
+                                              "referencedDeclaration": 9911,
                                               "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                               "value": "records"
                                             },
-                                            "id": 9830,
+                                            "id": 10047,
                                             "name": "Identifier",
-                                            "src": "2316:7:45"
+                                            "src": "2316:7:49"
                                           },
                                           {
                                             "attributes": {
@@ -2294,23 +2294,23 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9817,
+                                              "referencedDeclaration": 10034,
                                               "type": "bytes32",
                                               "value": "node"
                                             },
-                                            "id": 9831,
+                                            "id": 10048,
                                             "name": "Identifier",
-                                            "src": "2324:4:45"
+                                            "src": "2324:4:49"
                                           }
                                         ],
-                                        "id": 9832,
+                                        "id": 10049,
                                         "name": "IndexAccess",
-                                        "src": "2316:13:45"
+                                        "src": "2316:13:49"
                                       }
                                     ],
-                                    "id": 9833,
+                                    "id": 10050,
                                     "name": "MemberAccess",
-                                    "src": "2316:22:45"
+                                    "src": "2316:22:49"
                                   },
                                   {
                                     "attributes": {
@@ -2318,33 +2318,33 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9819,
+                                      "referencedDeclaration": 10036,
                                       "type": "address",
                                       "value": "resolver"
                                     },
-                                    "id": 9834,
+                                    "id": 10051,
                                     "name": "Identifier",
-                                    "src": "2341:8:45"
+                                    "src": "2341:8:49"
                                   }
                                 ],
-                                "id": 9835,
+                                "id": 10052,
                                 "name": "Assignment",
-                                "src": "2316:33:45"
+                                "src": "2316:33:49"
                               }
                             ],
-                            "id": 9836,
+                            "id": 10053,
                             "name": "ExpressionStatement",
-                            "src": "2316:33:45"
+                            "src": "2316:33:49"
                           }
                         ],
-                        "id": 9837,
+                        "id": 10054,
                         "name": "Block",
-                        "src": "2269:87:45"
+                        "src": "2269:87:49"
                       }
                     ],
-                    "id": 9838,
+                    "id": 10055,
                     "name": "FunctionDefinition",
-                    "src": "2199:157:45"
+                    "src": "2199:157:49"
                   },
                   {
                     "attributes": {
@@ -2353,9 +2353,9 @@ module.exports = {
                       "isConstructor": false,
                       "name": "setTTL",
                       "payable": false,
-                      "scope": 9862,
+                      "scope": 10079,
                       "stateMutability": "nonpayable",
-                      "superFunction": 9651,
+                      "superFunction": 9868,
                       "visibility": "public"
                     },
                     "children": [
@@ -2365,7 +2365,7 @@ module.exports = {
                             "attributes": {
                               "constant": false,
                               "name": "node",
-                              "scope": 9861,
+                              "scope": 10078,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "bytes32",
@@ -2378,20 +2378,20 @@ module.exports = {
                                   "name": "bytes32",
                                   "type": "bytes32"
                                 },
-                                "id": 9839,
+                                "id": 10056,
                                 "name": "ElementaryTypeName",
-                                "src": "2515:7:45"
+                                "src": "2515:7:49"
                               }
                             ],
-                            "id": 9840,
+                            "id": 10057,
                             "name": "VariableDeclaration",
-                            "src": "2515:12:45"
+                            "src": "2515:12:49"
                           },
                           {
                             "attributes": {
                               "constant": false,
                               "name": "ttl",
-                              "scope": 9861,
+                              "scope": 10078,
                               "stateVariable": false,
                               "storageLocation": "default",
                               "type": "uint64",
@@ -2404,19 +2404,19 @@ module.exports = {
                                   "name": "uint64",
                                   "type": "uint64"
                                 },
-                                "id": 9841,
+                                "id": 10058,
                                 "name": "ElementaryTypeName",
-                                "src": "2529:6:45"
+                                "src": "2529:6:49"
                               }
                             ],
-                            "id": 9842,
+                            "id": 10059,
                             "name": "VariableDeclaration",
-                            "src": "2529:10:45"
+                            "src": "2529:10:49"
                           }
                         ],
-                        "id": 9843,
+                        "id": 10060,
                         "name": "ParameterList",
-                        "src": "2514:26:45"
+                        "src": "2514:26:49"
                       },
                       {
                         "attributes": {
@@ -2425,9 +2425,9 @@ module.exports = {
                           ]
                         },
                         "children": [],
-                        "id": 9847,
+                        "id": 10064,
                         "name": "ParameterList",
-                        "src": "2558:0:45"
+                        "src": "2558:0:49"
                       },
                       {
                         "children": [
@@ -2437,13 +2437,13 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9709,
+                              "referencedDeclaration": 9926,
                               "type": "modifier (bytes32)",
                               "value": "only_owner"
                             },
-                            "id": 9844,
+                            "id": 10061,
                             "name": "Identifier",
-                            "src": "2541:10:45"
+                            "src": "2541:10:49"
                           },
                           {
                             "attributes": {
@@ -2451,18 +2451,18 @@ module.exports = {
                               "overloadedDeclarations": [
                                 null
                               ],
-                              "referencedDeclaration": 9840,
+                              "referencedDeclaration": 10057,
                               "type": "bytes32",
                               "value": "node"
                             },
-                            "id": 9845,
+                            "id": 10062,
                             "name": "Identifier",
-                            "src": "2552:4:45"
+                            "src": "2552:4:49"
                           }
                         ],
-                        "id": 9846,
+                        "id": 10063,
                         "name": "ModifierInvocation",
-                        "src": "2541:16:45"
+                        "src": "2541:16:49"
                       },
                       {
                         "children": [
@@ -2498,13 +2498,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9677,
+                                      "referencedDeclaration": 9894,
                                       "type": "function (bytes32,uint64)",
                                       "value": "NewTTL"
                                     },
-                                    "id": 9848,
+                                    "id": 10065,
                                     "name": "Identifier",
-                                    "src": "2568:6:45"
+                                    "src": "2568:6:49"
                                   },
                                   {
                                     "attributes": {
@@ -2512,13 +2512,13 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9840,
+                                      "referencedDeclaration": 10057,
                                       "type": "bytes32",
                                       "value": "node"
                                     },
-                                    "id": 9849,
+                                    "id": 10066,
                                     "name": "Identifier",
-                                    "src": "2575:4:45"
+                                    "src": "2575:4:49"
                                   },
                                   {
                                     "attributes": {
@@ -2526,23 +2526,23 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9842,
+                                      "referencedDeclaration": 10059,
                                       "type": "uint64",
                                       "value": "ttl"
                                     },
-                                    "id": 9850,
+                                    "id": 10067,
                                     "name": "Identifier",
-                                    "src": "2581:3:45"
+                                    "src": "2581:3:49"
                                   }
                                 ],
-                                "id": 9851,
+                                "id": 10068,
                                 "name": "FunctionCall",
-                                "src": "2568:17:45"
+                                "src": "2568:17:49"
                               }
                             ],
-                            "id": 9852,
+                            "id": 10069,
                             "name": "ExpressionStatement",
-                            "src": "2568:17:45"
+                            "src": "2568:17:49"
                           },
                           {
                             "children": [
@@ -2565,7 +2565,7 @@ module.exports = {
                                       "isPure": false,
                                       "lValueRequested": true,
                                       "member_name": "ttl",
-                                      "referencedDeclaration": 9689,
+                                      "referencedDeclaration": 9906,
                                       "type": "uint64"
                                     },
                                     "children": [
@@ -2585,13 +2585,13 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9694,
+                                              "referencedDeclaration": 9911,
                                               "type": "mapping(bytes32 => struct ENS.Record storage ref)",
                                               "value": "records"
                                             },
-                                            "id": 9853,
+                                            "id": 10070,
                                             "name": "Identifier",
-                                            "src": "2595:7:45"
+                                            "src": "2595:7:49"
                                           },
                                           {
                                             "attributes": {
@@ -2599,23 +2599,23 @@ module.exports = {
                                               "overloadedDeclarations": [
                                                 null
                                               ],
-                                              "referencedDeclaration": 9840,
+                                              "referencedDeclaration": 10057,
                                               "type": "bytes32",
                                               "value": "node"
                                             },
-                                            "id": 9854,
+                                            "id": 10071,
                                             "name": "Identifier",
-                                            "src": "2603:4:45"
+                                            "src": "2603:4:49"
                                           }
                                         ],
-                                        "id": 9855,
+                                        "id": 10072,
                                         "name": "IndexAccess",
-                                        "src": "2595:13:45"
+                                        "src": "2595:13:49"
                                       }
                                     ],
-                                    "id": 9856,
+                                    "id": 10073,
                                     "name": "MemberAccess",
-                                    "src": "2595:17:45"
+                                    "src": "2595:17:49"
                                   },
                                   {
                                     "attributes": {
@@ -2623,43 +2623,43 @@ module.exports = {
                                       "overloadedDeclarations": [
                                         null
                                       ],
-                                      "referencedDeclaration": 9842,
+                                      "referencedDeclaration": 10059,
                                       "type": "uint64",
                                       "value": "ttl"
                                     },
-                                    "id": 9857,
+                                    "id": 10074,
                                     "name": "Identifier",
-                                    "src": "2615:3:45"
+                                    "src": "2615:3:49"
                                   }
                                 ],
-                                "id": 9858,
+                                "id": 10075,
                                 "name": "Assignment",
-                                "src": "2595:23:45"
+                                "src": "2595:23:49"
                               }
                             ],
-                            "id": 9859,
+                            "id": 10076,
                             "name": "ExpressionStatement",
-                            "src": "2595:23:45"
+                            "src": "2595:23:49"
                           }
                         ],
-                        "id": 9860,
+                        "id": 10077,
                         "name": "Block",
-                        "src": "2558:67:45"
+                        "src": "2558:67:49"
                       }
                     ],
-                    "id": 9861,
+                    "id": 10078,
                     "name": "FunctionDefinition",
-                    "src": "2499:126:45"
+                    "src": "2499:126:49"
                   }
                 ],
-                "id": 9862,
+                "id": 10079,
                 "name": "ContractDefinition",
-                "src": "93:2534:45"
+                "src": "93:2534:49"
               }
             ],
-            "id": 9863,
+            "id": 10080,
             "name": "SourceUnit",
-            "src": "0:2628:45"
+            "src": "0:2628:49"
           },
           "compiler": {
             "name": "solc",
@@ -2667,7 +2667,7 @@ module.exports = {
           },
           "networks": {},
           "schemaVersion": "1.0.1",
-          "updatedAt": "2018-04-20T11:29:47.149Z"
+          "updatedAt": "2018-04-20T16:00:37.331Z"
         },
         "abi": [
           {
@@ -2961,11 +2961,11 @@ module.exports = {
               "0x3fcbaa69befff4bec8df04356d944a376b42468f",
               "0xe90824420dee2b623faa16d7c9f50c8cb690462f"
             ],
-            "blockNumber": 26,
+            "blockNumber": 664,
             "protocolVersion": "63"
           },
-          "transactionHash": "0xbb4fabe563309ebfffda967b3dccdfe1b46ecca4786b41a038ae5a4af9388dbd",
-          "address": "0x754185873c99415466d2bc67cae5b62bf34bbd12",
+          "transactionHash": null,
+          "address": "0x5b54a971930b5a53c7270b1f4aeb43860091a69f",
           "abi": [
             {
               "constant": true,
@@ -3181,13 +3181,13 @@ module.exports = {
             }
           ]
         },
-        "address": "0x754185873c99415466d2bc67cae5b62bf34bbd12",
-        "transactionHash": "0xbb4fabe563309ebfffda967b3dccdfe1b46ecca4786b41a038ae5a4af9388dbd"
+        "address": "0x5b54a971930b5a53c7270b1f4aeb43860091a69f",
+        "transactionHash": null
       },
       "templates": [
         {
-          "name": "Etheem",
-          "address": "0x61fac2d984bac88e2e014c80c32eac05958e345f"
+          "name": "EtheemFactory",
+          "address": "0x2366cbe5f43be589a95e195446563a41e30f9b33"
         }
       ]
     },

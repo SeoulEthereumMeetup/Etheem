@@ -5,7 +5,6 @@
         "node": "8"
       },
     }],
-    "stage-1",
-    "react-app"
+    "stage-1"
   ]
 }
