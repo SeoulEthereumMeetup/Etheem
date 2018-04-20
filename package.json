@@ -3,17 +3,25 @@
   "version": "1.0.0",
   "description": "",
   "dependencies": {
-    "@aragon/os": "^3.0.2"
+    "@aragon/apps-finance": "^1.0.1",
+    "@aragon/apps-token-manager": "^1.0.0",
+    "@aragon/apps-vault": "^2.0.1",
+    "@aragon/apps-voting": "^1.0.0",
+    "@aragon/id": "^1.2.2",
+    "@aragon/os": "^3.1.3",
+    "solc": "^0.4.18"
   },
   "devDependencies": {
     "@aragon/cli": "^2.0.0",
-    "solium": "^1.1.6"
+    "solium": "^1.1.6",
+    "truffle-hdwallet-provider": "0.0.3"
   },
   "scripts": {
     "test": "truffle test",
-    "compile": "truffle compile",
+    "compile": "truffle compile && node scripts/extract-abis.js",
     "publish": "aragon-dev-cli publish",
-    "lint:solium": "solium -d contracts --fix"
+    "lint": "solium -d contracts --fix",
+    "deploy:rpc": "truffle migrate --network rpc --reset"
   },
   "keywords": [],
   "license": "GPL-3.0"

@@ -1,6 +1,6 @@
 {
-  "appName": "app.open.aragonpm.eth",
+  "appName": "etheem.open.aragonpm.eth",
   "version": "1.0.0",
   "roles": [],
-  "path": "contracts/App.sol"
+  "path": "contracts/Etheem.sol"
 }
